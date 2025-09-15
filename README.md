@@ -14,4 +14,4 @@ I'm currently focused on building a strong foundation in **Python** and enjoy le
 * The basics of Git and GitHub for version control.
 
 📫 Let's connect!
-E-mail : aasifiqbal.me@gmail.com
+* E-mail : aasifiqbal.me@gmail.com
